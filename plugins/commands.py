@@ -43,16 +43,16 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Owner ", url='https://t.me/Murtazaaly01'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/Netflix_orignal)
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Netflix_orignal")
 
                     ]
 					
@@ -66,15 +66,15 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻OWNER", url='https://t.me/MURTAZAALY01'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/NETFLIX_ORIGNAL"),
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="ww.Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Netflix_orignal")
 
                     ]
 					
@@ -91,14 +91,14 @@ async def help(bot, cmd):
 		reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
-					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Murtazaaly01'),
+					InlineKeyboardButton("🤖Other Bots", url="https://t.me/Netflix_orignal"),
+					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Netflix_orignal")
 					
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/Instagramot"),
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deptemplate=https://github.com/subinps/Instagram-Bot")
 				]
 			]
 			)
@@ -113,16 +113,16 @@ async def stop(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")	
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Murtazaaly01'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/Netflix_orignal/122")	
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://herokulm/deploy?template=https:b.com/subinps/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Netflix_orignal")
 
                     ]
 					
